@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cb25f94-f407-425f-a02b-2077799075c2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/data/all_query_sim.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/doc_vec0.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/doc_vec1.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/doc_vec2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/doc_vec3.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/doc_vec4.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/doc_vec5.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/document_pair.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/document_seg.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/idf2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/question_pair.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/question_seg.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/vocab.pkl" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="retrieve.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/retrieve.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="118" selection-start-line="118" selection-end-line="118" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rate_entities.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rate_entities.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="85" column="30" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_answert.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/get_answert.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>在</find>
+      <find>done</find>
+      <find>[</find>
+      <find>奥运会</find>
+      <find>第一位</find>
+      <find>argmax</find>
+      <find>与</find>
+      <find>拉力赛</find>
+      <find>doc2</find>
+      <find>doc2vec</find>
+      <find>idf2</find>
+      <find />
+      <find>MISC</find>
+      <find>89.3</find>
+      <find>7000</find>
+      <find>17</find>
+      <find>199</find>
+      <find>1979</find>
+      <find>芬兰总统</find>
+      <find>海尔科化工程塑料研究中心有限公司</find>
+      <find>!</find>
+      <find>question entities:</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/xin_cmn_199801.xml" />
+        <option value="$PROJECT_DIR$/data/stop.txt" />
+        <option value="$PROJECT_DIR$/idx_data.py" />
+        <option value="$PROJECT_DIR$/preprocess.py" />
+        <option value="$PROJECT_DIR$/raw/stop.txt" />
+        <option value="$PROJECT_DIR$/segment.py" />
+        <option value="$PROJECT_DIR$/rate_entity.py" />
+        <option value="$PROJECT_DIR$/data/result1.txt" />
+        <option value="$PROJECT_DIR$/retrieve.py" />
+        <option value="$PROJECT_DIR$/question_classify.py" />
+        <option value="$PROJECT_DIR$/rate_entities.py" />
+        <option value="$PROJECT_DIR$/stanford_ner.py" />
+        <option value="$PROJECT_DIR$/get_answert.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="180" />
+    <option name="y" value="206" />
+    <option name="width" value="870" />
+    <option name="height" value="579" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bigdata/mapred_with_mongo" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/standford_pk" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.get_answert">
+    <configuration name="get_answert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="qa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_answert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="question_classify" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="qa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/question_classify.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="rate_entities" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="qa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rate_entities.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="retrieve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="qa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/retrieve.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="stanford_ner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="qa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stanford_ner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.retrieve" />
+      <item itemvalue="Python.get_answert" />
+      <item itemvalue="Python.question_classify" />
+      <item itemvalue="Python.rate_entities" />
+      <item itemvalue="Python.stanford_ner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.get_answert" />
+        <item itemvalue="Python.stanford_ner" />
+        <item itemvalue="Python.rate_entities" />
+        <item itemvalue="Python.retrieve" />
+        <item itemvalue="Python.question_classify" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cb25f94-f407-425f-a02b-2077799075c2" name="Default" comment="" />
+      <created>1526371200538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526371200538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1213" height="775" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21681781" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5004122" side_tool="true" weight="0.53523237" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32833582" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995878" visible="true" weight="0.5368421" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988006" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19043693" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.54872566" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32833582" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988006" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/retrieve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3270">
+          <caret line="225" column="30" selection-start-line="225" selection-start-column="30" selection-end-line="225" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate_entities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/quest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_answert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retrieve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3345">
+          <caret line="223" column="39" lean-forward="true" selection-start-line="223" selection-start-column="39" selection-end-line="223" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate_entities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_answert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retrieve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/quest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="90" selection-start-line="25" selection-start-column="90" selection-end-line="25" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retrieve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3090">
+          <caret line="206" column="36" selection-start-line="206" selection-start-column="36" selection-end-line="206" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/quest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="90" selection-start-line="25" selection-start-column="90" selection-end-line="25" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retrieve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3090">
+          <caret line="206" column="36" selection-start-line="206" selection-start-column="36" selection-end-line="206" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/quest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="90" selection-start-line="25" selection-start-column="90" selection-end-line="25" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retrieve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3090">
+          <caret line="206" column="36" lean-forward="true" selection-start-line="206" selection-start-column="36" selection-end-line="206" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/quest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="90" selection-start-line="25" selection-start-column="90" selection-end-line="25" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retrieve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2595">
+          <caret line="173" column="29" lean-forward="true" selection-start-line="173" selection-start-column="29" selection-end-line="173" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/dev/lib/python3.5/site-packages/gensim/corpora/dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/stop.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="251" column="1" selection-start-line="251" selection-end-line="251" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/quest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/result1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="20" column="152" selection-start-line="20" selection-start-column="152" selection-end-line="20" selection-end-column="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raw/doc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="424" column="262" selection-start-line="424" selection-start-column="262" selection-end-line="424" selection-end-column="263" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question_classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retrieve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate_entities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="85" column="30" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stanford_ner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="7" column="121" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="121" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_answert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
